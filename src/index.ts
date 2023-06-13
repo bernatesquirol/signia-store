@@ -1,1 +1,1 @@
-export {computed, atom, get} from './store'
+export {computed, atom, get, getAtoms} from './store'
