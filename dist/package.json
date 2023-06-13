@@ -1,6 +1,6 @@
 {
   "name": "@natesq/signia-store",
-  "version": "0.0.2",
+  "version": "0.1.21",
   "description": "Multicontext store for the great state management library signia",
   "author": "bernat",
   "license": "MIT",
